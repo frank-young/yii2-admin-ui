@@ -1,0 +1,22 @@
+{
+  "name": "iit/yii2-admin-ui",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ilovintit",
+      "email": "ilovintit@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*",
+    "bower-asset/eonasdan-bootstrap-datetimepicker": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "admin\\": ""
+    }
+  }
+}
