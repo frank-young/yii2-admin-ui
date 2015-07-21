@@ -6,10 +6,9 @@
  * Time: 0:00
  */
 
-namespace admin\ui;
+namespace iit\ui;
 
-
-class Html
+class Html extends \yii\bootstrap\Html
 {
 
 }
