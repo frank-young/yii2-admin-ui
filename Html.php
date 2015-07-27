@@ -8,7 +8,7 @@
 
 namespace iit\ui;
 
-class Html extends \yii\bootstrap\Html
+class Html extends BaseHtml
 {
 
 }
