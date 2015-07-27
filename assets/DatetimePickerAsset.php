@@ -21,6 +21,6 @@ class DatetimePickerAsset extends AssetBundle
         'build/js/bootstrap-datetimepicker.min.js'
     ];
     public $depends = [
-        '\admin\assets\MomentAsset'
+        'iit\ui\assets\MomentAsset'
     ];
 }

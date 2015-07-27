@@ -23,6 +23,6 @@ class AdminAsset extends AssetBundle
     public $depends = [
         'yii\web\JqueryAsset',
         'yii\bootstrap\BootstrapPluginAsset',
-        '\admin\assets\DatetimePickerAsset'
+        'iit\ui\assets\DatetimePickerAsset'
     ];
 }
